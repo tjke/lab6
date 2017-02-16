@@ -59,4 +59,5 @@ function addColor(result) {
 	$('h1, h2, h3, h4, h5, h5').css('color', colors[2]);
 	$('p').css('color', colors[3]);
 	$('.project img').css('opacity', .75);
+	
 }
